@@ -1,4 +1,4 @@
-# AI-tool-for-content-extraction
+# AI-tool-for-content-extraction and saving
 Langchain chatbot to summarize content in a file
 This project implements an AI-powered chatbot that can fetch research papers from the web, extract their content, generate a summary using Gemini 1.5 API, and finally save the results into a Word document.
 
